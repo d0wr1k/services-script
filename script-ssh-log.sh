@@ -42,7 +42,7 @@ else
                 fi
 		;;
 
-		3) echo -e  "Log File \n" ; cat $logfile
+		3) echo -e  "Log File \n" ; cat $logfile ; sleep 10
 		;;
 		
 		*) clear
