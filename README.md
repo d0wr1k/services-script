@@ -3,13 +3,13 @@ Bash script to check a service's status, change the service's state based on the
 
 __________________________________________________________________
 
-$git clone https://github.com/d0wr1k/services-script
+git clone https://github.com/d0wr1k/services-script
 
-$cd services-script
+cd services-script
 
-$chmod +x services-script.sh
+chmod +x script-ssh-log.sh
 
-$./services-script.sh
+./script-ssh-log.sh
 
 __________________________________________________________________
 
